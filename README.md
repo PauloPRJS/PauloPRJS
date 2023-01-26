@@ -1,9 +1,9 @@
 Olá sou Paulo Ricardo!👋
-
+<hr>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloPRJS&theme=algolia)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloPRJS&layout=compact&theme=great-gatsby)
 <hr>
-
+<hr>
 - 🔭 Atualmente estou trabalhando  como Bombeiro civil!
 - 🌱 Atualmente estou fazendo um curso de TI no Senac!
 - 👯 Estou procurando colaborar com o que eu aprender.
@@ -19,3 +19,4 @@ Olá sou Paulo Ricardo!👋
   <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+<hr>
