@@ -1,7 +1,7 @@
 Olá sou Paulo Ricardo!👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=josemiguelmachado&layout=compact&theme=great-gatsby)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloPRJS&layout=compact&theme=great-gatsby)
 <hr>
 
 - 🔭 Atualmente estou trabalhando  como Bombeiro civil!
